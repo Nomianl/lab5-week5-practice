@@ -1,0 +1,11 @@
+# Compiled executables (Windows)
+*.exe
+
+# Compiled executable (Mac/Linux)
+week5_practice
+
+# Intermediate object files
+*.o
+
+# Editor configuration
+.vscode/
